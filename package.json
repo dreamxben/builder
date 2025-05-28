@@ -33,6 +33,5 @@
     "g:changeset": "changeset",
     "g:nx": "cd $INIT_CWD && nx"
   },
-  "packageManager": "yarn@1.22.19",
-  },
+  "packageManager": "yarn@1.22.19"
 }
