@@ -35,12 +35,6 @@
   },
   "packageManager": "yarn@1.22.19",
   },
-  "dependenciesMeta": {
-    "nx": {
-      "built": false
-    },
-    "nx-cloud": {
-      "built": false
     }
   }
 }
